@@ -98,8 +98,29 @@ main section {
     font-size: 30px;
     font-weight: 700;
 }
-.icon-dec{
-    color:  #737272;
-font-size: 25px;
-font-weight: 500;
+
+.icon-dec {
+    color: #737272;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.third {
+    background-image: url('../images/watch.png'), linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0.00) 100%);
+    background-blend-mode: overlay;
+    width: 1140px;
+    height: 300px;
+    border-radius: 8px;
+    margin-top: 180px;
+
+}
+
+.third-section-title {
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+.third div{
+    padding: 59px 617px 59px 64px;
 }
