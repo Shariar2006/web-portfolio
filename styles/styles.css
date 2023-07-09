@@ -121,6 +121,24 @@ main section {
     font-weight: 700;
     margin-bottom: 0px;
 }
-.third div{
+
+.third div {
     padding: 59px 617px 59px 64px;
+}
+
+footer {
+    width: 1600px;
+    height: 577px;
+    margin: auto;
+    margin-top: 130px;
+    background: var(--dark-01, #151414);
+    display: flex;
+    justify-content: space-between;
+    padding: 130px 230px;
+}
+footer> div{
+    color: #FFF;
+}
+footer div{
+    /* display: flex; */
 }
