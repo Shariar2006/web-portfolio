@@ -78,3 +78,28 @@ main section {
     line-height: 26px;
     margin-left: 20px;
 }
+
+.second {
+    text-align: center;
+    margin-top: 140px;
+}
+
+.icons-set {
+    display: flex;
+    justify-content: center;
+}
+
+.set-icon {
+    margin-right: 98px;
+}
+
+.icon-title {
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+}
+.icon-dec{
+    color:  #737272;
+font-size: 25px;
+font-weight: 500;
+}
